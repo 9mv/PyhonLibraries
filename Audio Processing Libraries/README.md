@@ -2,12 +2,12 @@
 
 ## APAV_AMV
 Python library designed for my university subject *Algorismia i Programació Audiovisual*. The descriptions and information on the file are in Catalan. I can translate it if you ask me without any problem! In this library, you can find the following functions and classes:
-** CLASSES **
+**CLASSES**
 - filtreFIR
 - filtreIIR
 - dft_N
 
-** FUNCTIONS **
+**FUNCTIONS**
 - lectura_Wav
 - escriptura_Wav
 - transformadaFourier
